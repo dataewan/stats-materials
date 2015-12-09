@@ -14,6 +14,8 @@ http://www.amazon.co.uk/Escape-Ivory-Tower-Practical-Scientists/dp/1597266647/re
 
 http://www.storytellingwithdata.com/
 
+http://www.amazon.co.uk/The-Sense-Style-Thinking-Persons/dp/1846145503
+
 # General statistics
 
 http://onlinestatbook.com/Online_Statistics_Education.pdf
