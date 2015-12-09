@@ -10,6 +10,8 @@ http://www.amazon.co.uk/Made-Stick-ideas-others-unstuck-x/dp/009950569X
 
 http://www.amazon.co.uk/Houston-We-Have-Narrative-Science/dp/022627084X
 
+http://www.amazon.co.uk/Escape-Ivory-Tower-Practical-Scientists/dp/1597266647/ref=sr_1_1?ie=UTF8&qid=1449669034&sr=8-1&keywords=escape+the+ivory+tower
+
 http://www.storytellingwithdata.com/
 
 # General statistics
