@@ -10,6 +10,8 @@ http://www.amazon.co.uk/Made-Stick-ideas-others-unstuck-x/dp/009950569X
 
 http://www.amazon.co.uk/Houston-We-Have-Narrative-Science/dp/022627084X
 
+http://www.storytellingwithdata.com/
+
 # General statistics
 
 http://onlinestatbook.com/Online_Statistics_Education.pdf
