@@ -31,3 +31,7 @@ https://www.countbayesie.com/books/
 # Computer statistics
 
 http://minireference.com/static/tutorials/sympy_tutorial.pdf
+
+# Philosophy of science
+
+http://tomasp.net/blog/2015/reading-list/
