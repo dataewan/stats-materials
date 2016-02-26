@@ -32,6 +32,12 @@ https://www.countbayesie.com/books/
 
 http://minireference.com/static/tutorials/sympy_tutorial.pdf
 
+# Python & Pandas
+
+http://pep8.org/
+
+Python for Data Analysis
+
 # Philosophy of science
 
 http://tomasp.net/blog/2015/reading-list/
